@@ -31,7 +31,10 @@ int delay_value = 10;
 int Home = 0;  //Home
 
 int pos1 = 0;
-
+int pos2 = 0;
+int pos3 = 0;
+int pos4 = 0;
+int pos5 = 0;
 
 int angleToPulse(int ang) {
   int pulse = map(ang, 0, 180, SERVOMIN, SERVOMAX);
