@@ -28,7 +28,7 @@
     </style>
   </head>
 
-  <body class="noselect" align="center" style="color: white;text-align:center;" style="background-color:white">
+  <body class="noselect" align="center" style="background-color:white">
     <h3 style="color: teal;text-align:center;">&#129470;Robot Arm Web Controller</h3> 
    
     <table id="mainTable" style="width:500;margin:auto;table-layout:fixed" CELLSPACING=8>
@@ -90,4 +90,5 @@
 
     </script>
   </body>
+
 </html>
